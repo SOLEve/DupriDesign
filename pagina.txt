@@ -1,0 +1,61 @@
+<li id="pagina_proyecto2" class="pagina_proyecto2">
+						<div class="pad">
+							<a href="#close" class="close"><span></span></a>
+								<div class="col1">
+									<div class="gallery_big_img" title="Clic para ampliar imagen" style="cursor: pointer;">
+										<img style="width: 100%;max-height: 100%" 	src="images/trabajo1/1.jpg" alt="" class="img1" id="active">
+										<img style="width: 100%;max-height: 100%"	src="images/proy1/2.jpg" alt="" class="img2">
+										<img style="width: 100%;max-height: 100%"	src="images/proy1/3.jpg" alt="" class="img3">
+										<img style="width: 100%;max-height: 100%"	src="images/proy1/4.jpg" alt="" class="img4">
+										<img style="width: 100%;max-height: 100%"	src="images/proy1/5.jpg" alt="" class="img5">
+									</div>
+								</div>
+								<div class="col1 pad_left1">
+									<h2>Galeria del  Proyecto</h2>
+									<div id="caption">
+										<ul>
+											<li class="img1">
+												<p class="pad_bot1"><strong>Project Name</strong><br>
+														Consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum tet clita kasd gubergren, no sea takimata.</p>
+												<p>Danctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit tempor invidunt ut labore.</p>
+											</li>
+											<li class="img2">
+												<p class="pad_bot1"><strong>Project Name</strong><br>
+														Sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum tet clita kasd gubergren, no sea takimata.</p>
+												<p>Est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit tempor invidunt ut labore.</p>
+											</li>
+											<li class="img3">
+												<p class="pad_bot1"><strong>Project Name</strong><br>
+														Elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum tet clita kasd gubergren, no sea takimata.</p>
+												<p>Lorem ipsum dolor sit amet. Lorem ipsum dolor sit tempor invidunt ut labore.</p>
+											</li>
+											<li class="img4">
+												<p class="pad_bot1"><strong>Project Name</strong><br>
+														Sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum tet clita kasd gubergren, no sea takimata.</p>
+												<p>Ipsum dolor sit amet. Lorem ipsum dolor sit tempor invidunt ut labore.</p>
+											</li>
+											<li class="img5">
+												<p class="pad_bot1"><strong>Project Name</strong><br>
+														Diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum tet clita kasd gubergren, no sea takimata.</p>
+												<p>Dolor sit amet. Lorem ipsum dolor sit tempor invidunt ut labore.</p>
+											</li>
+										</ul>
+									</div>
+									<div class="relative">
+										<div id="gallery1">
+											<ul>
+												<li><a href="#img1"><img 	src="images/proy1/1.jpg" alt=""></a></li>
+												<li><a href="#img2"><img  	src="images/proy1/2.jpg" alt=""></a></li>
+												<li><a href="#img3"><img  	src="images/proy1/3.jpg" alt=""></a></li>
+												<li><a href="#img4"><img  	src="images/proy1/4.jpg" alt=""></a></li>
+												<li><a href="#img5"><img 	src="images/proy1/5.jpg" alt=""></a></li>
+											</ul>
+										</div>
+										<a href="#" class="prev"><span></span></a>
+										<a href="#" class="next"><span></span></a>
+									</div>
+								</div>
+						</div>
+					</li>
+					
+					
